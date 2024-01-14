@@ -1,4 +1,4 @@
-![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2)
+![cv](https://github.com/akiralab/cv/files/13931712/cv.pdf)
 
 # Forked from [Minimalist CV](https://github.com/BartoszJarocki/cv)
 
